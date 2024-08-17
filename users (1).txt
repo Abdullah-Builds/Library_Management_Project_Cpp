@@ -1,0 +1,147 @@
+001
+John Doe
+password123
+0
+2
+Book Title 1
+Author 1
+ISBN001
+15/04/2024
+Book Title 2
+Author 2
+ISBN002
+20/04/2024
+The Hobbit
+J.R.R. Tolkien
+10
+2
+10
+24
+002
+Jane Smith
+abc@123
+5.5
+1
+Book Title 3
+Author 3
+ISBN003
+10/04/2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23k-0590
+abdul_ahad4
+abdul_ahad4
+0
+0
+Brave New World
+Aldous Huxley
+9
+2
+10
+24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+abdul_ahad4
+abdul_ahad4
+abdul_ahad4
+0
+0
+To Kill a Mockingbird
+Harper Lee
+1
+10
+6
+24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+0
+0
